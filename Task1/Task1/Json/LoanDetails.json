@@ -1,0 +1,31 @@
+{
+    "section": [
+        {
+            "title": "Employment Information",
+            "option": [
+                {"title": "Employment Status", "subtitle": "Employed"},
+                {"title": "Name of the company/organization", "subtitle": "Bank ABC"},
+                {"title": "Gross Income", "subtitle": "BHD 550.000"}
+            ],
+            "isOpened": false,
+            "icon": "EmploymentInfo",
+            "isTitleSection": false
+        },
+        {
+            "title": "Personal Information",
+            "option": [
+                {"title": "Current Address", "subtitle": "House 123 Road 33 Manama 22 Bahrain"},
+                {"title": "Residence Status", "subtitle": "Owned"},
+                {"title": "No. of Years at Current Residence", "subtitle": "1 to 2 Years"},
+                {"title": "Marital Status", "subtitle": "Single"},
+                {"title": "No. of Dependent", "subtitle": "2"},
+                {"title": "Academic Qualification", "subtitle": "Post Graduate"},
+                {"title": "Person's Contact", "subtitle": "+973 39121212"},
+                {"title": "Person's Name", "subtitle": "Mohamed Ali"}
+            ],
+            "isOpened": false,
+            "icon": "PersonalInfo",
+            "isTitleSection": false
+        }
+    ]
+}
